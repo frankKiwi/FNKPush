@@ -28,6 +28,6 @@ Pod::Spec.new do |spec|
    spec.requires_arc = true
 
 
-  spec.dependency "JPush", "~> 3.0.6"
+  spec.dependency "JPush", "~> 3.0.9"
 
 end
