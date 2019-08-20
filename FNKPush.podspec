@@ -3,7 +3,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "FNKPush"
-  spec.version      = "0.0.4"
+  spec.version      = "0.0.5"
   spec.summary      = "集成极光推送.需要用的在.m修改"
 
  
@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
   
   spec.author             = { "fanrenFRank" => "1778907544@qq.com" }
   
-   spec.platform     = :ios, "8.1"
+   spec.platform     = :ios, "9.0"
 
   spec.source       = { :git => "https://github.com/frankKiwi/FNKPush.git", :tag => "#{spec.version}" }
   
